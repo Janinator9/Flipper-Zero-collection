@@ -1,0 +1,8 @@
+REM Chipi Cat by Janinator9 with C00kie
+DELAY 600
+GUI r
+DELAY 700
+STRING https://youtu.be/xbks1QDEWNM?si=UGgQxixLeBJcnahM
+ENTER
+DELAY 2500
+STRING F
