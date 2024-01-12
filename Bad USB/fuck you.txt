@@ -1,0 +1,61 @@
+REM fuck you notepad by Janinator9 with C00kie
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+
+STRING fuck you!
+ENTER
+DEFAULT_DELAY 50
+
+ENTER
+ENTER
+
+STRING               _.-------.._                    -,
+ENTER
+HOME
+STRING           .-"```"--..,,_/ /`-,               -,  \ 
+ENTER
+HOME
+STRING        .:"          /:/  /'\  \     ,_...,  `. |  |
+ENTER
+HOME
+STRING       /       ,----/:/  /`\ _\~`_-"`     _;
+ENTER
+HOME
+STRING      '      / /`"""'\ \ \.~`_-'      ,-"'/ 
+ENTER
+HOME
+STRING     |      | |  0    | | .-'      ,/`  /
+ENTER
+HOME
+STRING    |    ,..\ \     ,.-"`       ,/`    /
+ENTER
+HOME
+STRING   ;    :    `/`""\`           ,/--==,/-----,
+ENTER
+HOME
+STRING   |    `-...|        -.___-Z:_______J...---;
+ENTER
+HOME
+STRING   :         `                           _-'
+ENTER
+HOME
+STRING  _L_  _     ___  ___  ___  ___  ____--"`
+ENTER
+HOME
+STRING | __|| |   |_ _|| _ \| _ \| __|| _ \ 
+ENTER
+HOME
+STRING | _| | |__  | | |  _/|  _/| _| |   / 
+ENTER
+HOME
+STRING |_|  |____||___||_|  |_|  |___||_|_\ 
+ENTER
+HOME
+ENTER
+STRING Made by Janinator9 with C00kie 
+
