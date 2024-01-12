@@ -1,8 +1,0 @@
-REM Dildo Kopf by Janinator9 with C00kie
-DELAY 600
-GUI r
-DELAY 700
-STRING https://youtu.be/9EiinQ1QNXU?si=UhdUXZWQ3i03pAQm
-ENTER
-DELAY 2500
-STRING F
