@@ -1,8 +1,0 @@
-REM Opens Idiot song by Janinator9 with C00kie
-DELAY 600
-GUI r
-DELAY 800
-STRING https://www.youtube.com/watch?v=48rz8udZBmQ
-ENTER
-DELAY 1000
-STRING F
