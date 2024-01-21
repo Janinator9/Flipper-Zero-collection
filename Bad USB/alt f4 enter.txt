@@ -1,0 +1,5 @@
+REM alt + F4 by Janinator9 with C00kie
+DELAY 600
+ALT F4
+DELAY 100
+ENTER

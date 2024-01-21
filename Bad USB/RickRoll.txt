@@ -1,0 +1,8 @@
+REM Dubble R (Rick Roll) by Janinator9 with C00kie
+DELAY 600
+GUI r
+DELAY 700
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 2500
+STRING F

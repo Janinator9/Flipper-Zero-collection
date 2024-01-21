@@ -1,0 +1,8 @@
+REM Rickroll for school pc (whene ony powershell is avalibel (no cmd)) by Janinator9 with C00kie
+WINDOWS
+STRING powershell
+DELAY 500
+ENTER
+DELAY 500
+STRING Start-Process 'https://www.youtube.com/watch?v=xvFZjo5PgG0'
+ENTER
