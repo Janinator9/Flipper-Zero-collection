@@ -1,4 +1,4 @@
-REM discord spam 
+REM ctrl v enter spam by janinator9 with C00kie
 DELAY 600
 CTRL v 
 ENTER 
